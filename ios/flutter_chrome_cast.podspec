@@ -19,7 +19,7 @@ A new Flutter plugin project.
   s.ios.deployment_target  = '12.0'
   s.dependency 'google-cast-sdk', '~> 4.7'
   s.dependency 'Protobuf'
-  s.static_framework = true 
+  s.static_framework = false
 
   # IMPORTANT: Architecture exclusion for iOS Simulator builds
   # 
